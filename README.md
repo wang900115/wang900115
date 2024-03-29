@@ -1,11 +1,11 @@
-# Nice meet you all 👋   
+# 👋 Nice meet you all 
 #### *Job title*       👉️ Software Engineer 👨‍💻
 #### *Major Backgroud* 👉️ Communication Engineering 📙
 #### *Education*      👉️ Bachelor 👨‍🎓
 #### *Hobbies*     👉️ Play computer games 🕹️
 #### *Pronouns* 👉️ Active learning new thing 🤓
 
-## 🤔 What I have 
+# 🤔 What I have 
 - ### *Program Language* 👇
     - 🥇 **Python**
     - 🥉 C
@@ -16,7 +16,7 @@
     - 🏚️ Data Structures
 - ### *Other* 👇️
   - 👀 Basic concept about Assembler
-## 📫 How to reach me
+# 📫 How to reach me
   - ### ✉️ *Email* 👇
     - Gmail : aa0970606353@gmail.com
     - Icloud : a0970606353@icloud.com 
