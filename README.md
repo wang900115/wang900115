@@ -1,5 +1,4 @@
 # Nice meet you all 👋 Just let me intro myself  
-
 ## Name : Wang Jun Rui 王駿睿
 ## Country : Taiwan 
 ## City : New Taipei City
@@ -9,7 +8,6 @@
 ## Major Backgroud : Communication Engineering
 ## Education : Bachelor
 ## Hobbies : Play computer games 
-
 ### 🤔 What I have :
   - Python
   - C
