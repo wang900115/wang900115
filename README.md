@@ -3,7 +3,7 @@
 #### *Major Backgroud* 👉️ Communication Engineering 📙
 #### *Education*      👉️ Bachelor 👨‍🎓
 #### *Hobbies*     👉️ Play computer games 🕹️
-
+#### *Pronouns* 👉️ Active learning new thing 🤓
 
 ## 🤔 What I have 
 - ### Program Language 👇
@@ -26,9 +26,5 @@
     - ID : wang900115
   - ### 🔔 *Phone*:
     - Number : 0970606353 
-## 😄 Pronouns 
-  - 🤓 Active learning new thing
-  - 🌞 Good manner with collaborator
-  - 🤔 Support multiple perspectives and try understand
-  - 😎 Work hard to achieve  goals
+
 
