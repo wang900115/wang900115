@@ -3,7 +3,7 @@
 #### *Major Backgroud* 👉️ Communication Engineering 📙
 #### *Education*      👉️ Bachelor 👨‍🎓
 #### *Hobbies*     👉️ Play computer games 🕹️
-#### *Pronouns* 👉️ Active learning new thing 🤓
+#### *Pronouns* 👉️  **Active learning new thing**  🤓
 
 # 🤔 What I have 
 - ### *Program Language* 👇
