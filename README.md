@@ -6,25 +6,25 @@
 #### *Pronouns* 👉️ Active learning new thing 🤓
 
 ## 🤔 What I have 
-- ### Program Language 👇
+- ### *Program Language* 👇
     - 🥇 **Python**
     - 🥉 C
-- ### SQL 👇️
+- ### *SQL* 👇️
     - 🥈 **Mysql**
-- ### Problem Soloving 👇️
+- ### *Problem Soloving* 👇️
     - 💡 Algorithms
-    - 🏚️ Data Structe
-- ### Other 👇️
+    - 🏚️ Data Structures
+- ### *Other* 👇️
   - 👀 Basic concept about Assembler
 ## 📫 How to reach me
-  - ### ✉️ *Email*:
+  - ### ✉️ *Email* 👇
     - Gmail : aa0970606353@gmail.com
     - Icloud : a0970606353@icloud.com 
-  - ### 🖥️ *Discord* :
+  - ### 🖥️ *Discord* 👇
     - ID : wang_900115
-  - ### 💬 *Line*:
+  - ### 💬 *Line* 👇
     - ID : wang900115
-  - ### 🔔 *Phone*:
+  - ### 🔔 *Phone* 👇
     - Number : 0970606353 
 
 
