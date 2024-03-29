@@ -21,7 +21,8 @@
   - Good manner with collaborator
   - Support multiple perspectives and try understand
   - Work hard to achieve  goals
----
 ​<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="音频地址">
+      <source id="mp3" src="https://www.youtube.com/watch?v=dm0ndgjk9V4">
 </audio>
+
+---
