@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently learning how to understand open source code
+- 👯 I’m looking to collaborate on future technology
+- 🤔 I’m looking for help with Python
+- 📫 How to reach me: email or discord
+- 😄 Pronouns: one is active learning new thing and other is good manner with collaborator
 <!--
 **wang900115/wang900115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
