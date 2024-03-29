@@ -1,6 +1,4 @@
 # Hi there 👋
-- 🔭 I’m currently learning how to understand open source code
-## 👯 I’m looking to collaborate on future technology
 ### 🤔 What I have :
   - Python
   - C
@@ -21,4 +19,15 @@
 ### 😄 Pronouns :
   - Active learning new thing
   - Good manner with collaborator
+  - Support multiple perspectives and try understand
+  - Work hard to achieve  goals
 ---
+<iframe
+    frameborder="no"
+    border="0"
+    marginwidth="0"
+    marginheight="0"
+    width=330
+    height=86
+    src="//music.163.com/outchain/player?type=2&id=393697&auto=1&height=66">
+</iframe>
