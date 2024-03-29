@@ -1,13 +1,14 @@
-# Nice meet you all 👋 Just let me intro myself  
-## Name : Wang Jun Rui 王駿睿
-## Country : Taiwan 
-## City : New Taipei City
-## Age : 23
-## Birthday : 2001/01/15
-## Job title :  Software Engineer
-## Major Backgroud : Communication Engineering
-## Education : Bachelor
-## Hobbies : Play computer games 
+# 👋 Nice meet you all just let me intro myself  
+### Name            👉️ Wang Jun Rui 王駿睿 💪
+### Country         👉️ Taiwan 💯
+### City            👉️ New Taipei City 😶
+### Age             👉️ 23 ⏳️
+### Birthday        👉️ 2001/01/15 🎉
+### Job title       👉️ Software Engineer 🛄
+### Major Backgroud 👉️ Communication Engineering 📙
+### Education       👉️ Bachelor 👨‍🎓
+### Hobbies         👉️ Play computer games 🕹️
+# Others 
 ### 🤔 What I have :
   - Python
   - C
@@ -16,7 +17,7 @@
   - Data Structe
   - Basic concept about Assembler
 ### 📫 How to reach me :
-  - Email(username):
+  - Email:
     - Gmail : aa0970606353@gmail.com
     - Icloud : a0970606353@icloud.com 
   - Discord :
