@@ -9,6 +9,7 @@
 - ### *Program Language* 👇
     - 🥇 **Python**
     - 🥉 C
+    - HTML , Css , JavaScipt
 - ### *SQL* 👇️
     - 🥈 **Mysql**
 - ### *Problem Soloving* 👇️
@@ -16,6 +17,7 @@
     - 🏚️ Data Structures
 - ### *Other* 👇️
   - 👀 Basic concept about Assembler
+  - Web server program
 # 📫 How to reach me
   - ### ✉️ *Email* 👇
     - Gmail : aa0970606353@gmail.com
